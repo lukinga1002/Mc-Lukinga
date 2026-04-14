@@ -1,0 +1,6 @@
+# MC Lukinga — mclukinga.com
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mclukinga.com/sitemap.xml
